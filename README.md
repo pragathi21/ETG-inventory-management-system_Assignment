@@ -1,4 +1,4 @@
-# ETG_Assignments
+# ETG-inventory-management-system_Assignment
 This repository having all the codes with JSON files for making a inventory management system during ETG Internship.
 
 I have used JSON file system for it, new inventory can be added and purchase can be done
